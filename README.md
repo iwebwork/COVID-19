@@ -8,6 +8,8 @@
 
 ### Referências
 
+#### Para estudo sobre RNAs
+
 Site em português com informações básicas para quem está começando:
 http://deeplearningbook.com.br/
 

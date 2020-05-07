@@ -1,6 +1,6 @@
 <img src="./una.png" width="193px" height="55px" align="left">
 
-## Documentos para a iniciação científica sobre o CODVID-19
+## Documentos para a iniciação científica sobre o COVID-19
 
 ### Documentos
 
